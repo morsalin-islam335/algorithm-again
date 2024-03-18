@@ -1,3 +1,6 @@
+# adjacency list and adjacency matrix is similar like in python
+
+
 N = int(1e3)
 
 # declare a 2D matrix with 0
